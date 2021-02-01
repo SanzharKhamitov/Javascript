@@ -1,0 +1,43 @@
+.table_text {
+    font-family: Helvetica, Abadi, Calibri;
+    font-weight: bold;
+    color:black;
+}
+
+.social_icon {
+    padding: 16px 32px 16px 32px; 
+    width: 50px; 
+    height: 50px;
+}
+
+.social_icon2 {
+    width: 30px; 
+    height: 30px;
+}
+
+.social_icon3 {
+    padding: 16px 32px 16px 32px; 
+    width: 50px; 
+    height: 50px
+}
+
+.album_shots {
+    width: 200px;
+    height: 200px;
+}
+
+.input_div{
+    padding: 0px 96px 0px 24px;
+}
+
+.input_btn{
+    width: 100%; 
+    font-size: 18px; 
+    padding: 12px; 
+    margin: 24px; 
+}
+
+.info_text1 {
+    font-family: Helvetica, Abadi, Calibri;
+    color: rgb(255, 255, 255);
+}
